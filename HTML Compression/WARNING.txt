@@ -1,0 +1,11 @@
+NOTE: always backup files before compressing
+
+Known ISSUES:
+
+1.> This code is optimised for only HTML files with NON-Enhanced compression
+
+2.> Never enable Enhanced Compression if you are using any Scripts.
+
+Suggestions for improvement can be mailed to sriharish@msn.com
+
+				---VOTE FOR ME---
